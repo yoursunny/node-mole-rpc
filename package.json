@@ -1,6 +1,6 @@
 {
-    "name": "mole-rpc",
-    "version": "1.0.4",
+    "name": "@yoursunny/mole-rpc",
+    "version": "0.0.0",
     "description": "Transport agnostic spec compliant JSON RPC client and server",
     "main": "index.js",
     "directories": {
@@ -14,11 +14,11 @@
         "mole-rpc-autotester": "^1.0.0"
     },
     "scripts": {
-        "test": "node ./tests/autotests.js || exit 1"
+        "test": "node ./tests/autotests.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/koorchik/node-mole-rpc.git"
+        "url": "git+https://github.com/yoursunny/node-mole-rpc.git"
     },
     "keywords": [
         "jsonrpc",
@@ -35,9 +35,5 @@
         "molerpc"
     ],
     "author": "koorchik",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/koorchik/node-mole-rpc/issues"
-    },
-    "homepage": "https://github.com/koorchik/node-mole-rpc#readme"
+    "license": "MIT"
 }
