@@ -1,6 +1,6 @@
 {
     "name": "@yoursunny/mole-rpc",
-    "version": "0.0.0",
+    "version": "0.0.20200718",
     "description": "Transport agnostic spec compliant JSON RPC client and server",
     "main": "index.js",
     "directories": {
